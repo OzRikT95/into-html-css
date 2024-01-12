@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  width: 50%;
+  margin: auto;
+  padding: 0%;
+}
+.headerStyles {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+img {
+  border: 2px solid red;
+  margin: 0 0 10px 10px;
+}
+.boilerPlateImg {
+  height: 10%;
+  width: 25%;
+  border-radius: 50%;
+}
+a {
+  font-size: small;
+  padding: 20px 5px 15px 30px;
+}
+ul,
+ol {
+  color: yellowgreen;
+}
